@@ -22,6 +22,12 @@ a.brand-logo{
   color:#1f2324;
 }
 
+.page-footer{
+  position:absolute;
+  width:100vw;
+  bottom:0;
+}
+
 /*RESPONSIVE*/
 @media screen and (max-width:992px){
   a.brand-logo{
