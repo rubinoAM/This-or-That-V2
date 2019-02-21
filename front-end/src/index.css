@@ -13,6 +13,8 @@ code {
 }
 
 a.brand-logo{
+  font-size:1.75rem;
+  font-family:'Coiny',cursive;
   margin-left:10px;
   color:#1f2324;
 }
@@ -31,7 +33,8 @@ a.brand-logo{
 /*RESPONSIVE*/
 @media screen and (max-width:992px){
   a.brand-logo{
-    margin-left:0;
-    width:230px;
+    font-size:auto;
+    margin-left:10px;
+    width:300px;
   }
 }
